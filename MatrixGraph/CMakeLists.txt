@@ -1,0 +1,1 @@
+add_library(MatrixGraph SHARED MatrixGraph.cpp)
